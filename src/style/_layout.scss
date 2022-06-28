@@ -402,6 +402,11 @@
         @include method($_color-get);
     }
 
+    &.opblock-list
+    {
+        @include method($_color-list);
+    }
+
     &.opblock-patch
     {
         @include method($_color-patch);

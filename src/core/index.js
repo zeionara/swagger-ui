@@ -75,7 +75,8 @@ export default function SwaggerUI(opts) {
       "options",
       "head",
       "patch",
-      "trace"
+      "trace",
+      "list"
     ],
     queryConfigEnabled: false,
 
